@@ -1,0 +1,6 @@
+name = "namespace-bot"
+type = "webpack"
+account_id = "595a22d447b6f579a3bac7613e8aec5e"
+workers_dev = true
+route = ""
+zone_id = ""
