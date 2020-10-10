@@ -66,6 +66,8 @@ bot.command(['del', 'revoke', 'deactivate'], ctx => {
   delete ctx.sessions[name]
 })
 
+bot.command('ping', ctx => replyTo('Sir! Yes sir! 好! 很有精神!', ctx))
+
 bot.on("text", ctx => {
   const replied = ctx.message?.reply_to_message
   if (!replied) return
