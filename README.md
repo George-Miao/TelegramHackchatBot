@@ -10,7 +10,7 @@ Use [This link](https://t.me/Splitroom_bot) to add the bot.
 
 Notice: 
 - Whatever you send inside that room will be forwarded to the group
-- Messages replies the forwarded message in telegram will also be reposted into the chat room
+- Messages replies to the forwarded message in telegram will also be reposted into the chat room
 
 ## Commands
 #### **`/help`**
