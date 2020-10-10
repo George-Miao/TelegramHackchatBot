@@ -28,4 +28,4 @@ List all rooms
 Deactivate a room. Use `/ls` to see all room names.  
 &emsp;Alias: `/revoke` `/deactivate`
     
-You can reply to a reposted message. The bot will repost it to the room.`
+You can reply to a reposted message. The bot will repost it to the room.
